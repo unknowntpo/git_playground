@@ -4,3 +4,5 @@ This is my git playground just for practicing git command.
 Ref: https://gitbook.tw/
 
 Hello from cat again
+
+Hello from cat branch again^2
