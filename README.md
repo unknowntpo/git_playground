@@ -6,3 +6,5 @@ Ref: https://gitbook.tw/
 Hello from cat again
 
 Hello from cat branch again^2
+
+Test no-ff merge, merging cat to master
